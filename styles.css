@@ -22,10 +22,10 @@ body{
     border-color: white;
 }
 #b1{
-    margin-left: 40%;
+    margin-left: auto%;
 }
 #b2{
-    margin-left: 10%;
+    margin-left: auto%;
 }
 .button:hover{
     background-color: rgb(231, 33, 99);
